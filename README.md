@@ -5,7 +5,7 @@ This is a custom-trained object detection model using YOLOv5 to identify human p
 
 The dataset contains annotated thermal images labeled for **person detection**, structured in YOLO format.
 
-- **Download Link**: [`[/content/PersonDection.v5i.yolov5pytorch.zip](https://universe.roboflow.com/smart2/persondection-61bc2/dataset/5)`](#)
+- **Download Link**: [`(https://universe.roboflow.com/smart2/persondection-61bc2/dataset/5)`](#)
 - **Format**: YOLOv5
 - **Classes**: `['person']`
 - **Source**: Infrared thermal imaging
